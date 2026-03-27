@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+# data / model
+models/
+runs/
+output_videos/
+training/football-players-detection-1/
+
+# optional
+*.pt
+*.pth
+*.mp4
